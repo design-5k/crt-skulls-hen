@@ -1,0 +1,11 @@
+{
+  "name": "crt-skulls",
+  "version": "1.0.0",
+  "description": "CRT Skulls are a collection of interactive skulls made using PixiJS living on the Ethereum blockchain.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "subink",
+  "license": "ISC"
+}
